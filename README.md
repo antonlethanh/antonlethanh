@@ -9,7 +9,7 @@ const Anton = {
   
   code: [Python, Java, Javascript, HTML, CSS, Prolog, Ocaml, SQL, ARM],
   
-  tools: [Wing Pro, Pycharm, Intellij_IDEA, Eclipse, JupyterNotebook, VMware, Git, Photoshop],
+  tools: [Wing Pro, Pycharm, Intellij_IDEA, Eclipse, VMware, Git, Photoshop],
   
   architecture: ["Machine_Learning", "Data_Analysis", "Design_System_Pattern"],
   
@@ -18,7 +18,7 @@ const Anton = {
                      Residence: "Edinburgh"
            },
   
-  challenge: "I am studying the impact of blockchain and information digitization"
+  challenge: "I am studying the impact of Artificial Intelligence and information digitization"
 
 }
 ```
